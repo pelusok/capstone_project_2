@@ -1,1 +1,1 @@
-# capstone_project_2
+## Capstone Project 2: Donors Choose
